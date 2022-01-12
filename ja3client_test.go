@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"testing"
 
-	. "github.com/CUCyber/ja3transport"
+	. "github.com/go-awesome/ja3transport"
 	tls "github.com/refraction-networking/utls"
 )
 
